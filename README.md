@@ -10,4 +10,4 @@ This repository contains the solution for **Homework 4** of the course **Algorit
 
 ### Repository Contents
 **Notebook**:
-- **`adm-hw3.ipynb`**: A Jupyter Notebook containing Python solutions of Homework4 (Q1 and Q4).
+- **`main.ipynb`**: A Jupyter Notebook containing Python solutions of Homework4 (Q1 and Q4).
